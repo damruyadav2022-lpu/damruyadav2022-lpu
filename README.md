@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Deepak Kumar Yadav
-AI Engineer focused on building real-world intelligent systems
+AI/Ml Engineer focused on building real-world intelligent systems
 
 # 💫 About Me:
 🔭 I’m currently working on Dr.AI where I’m building a system that combines ML predictions, OCR, and LLMs for real-world healthcare use<br>🛡️ I built an OS Security Simulator to understand how attacks like buffer overflow and cache poisoning behave at system level<br>👯 I’m open to collaborating on projects where AI is applied to real problems (not just models, but full systems)<br>🌱 Right now I’m improving my understanding of ML fundamentals, backend systems (FastAPI), and how to deploy real applications<br>💬 You can ask me about how I built my projects, integrating AI with frontend/backend, and handling real-world data<br>⚡ Fun fact: Most of what I know comes from building projects and figuring things out by debugging, not just watching tutorials
